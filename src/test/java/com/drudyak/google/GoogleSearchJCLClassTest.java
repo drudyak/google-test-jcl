@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Created by Drudyak on 2/19/17.
  */
-public class GoogleSearchJCLTest {
+public class GoogleSearchJCLClassTest {
 
     private static final String SEARCH_QUERY = "Juniors Club Lviv";
     private static final String WEBSITE_SEARCH_WORD = "Juniors Club Lviv";
@@ -40,7 +40,7 @@ public class GoogleSearchJCLTest {
 
 
     @Test
-    public void GoogleSearchTest() {
+    public void tsearchGoogleTest() {
         googleHomePageBO = new GoogleHomePageBO();
         googleHomePageBO.performGoogleSearch(SEARCH_QUERY);
 
