@@ -1,0 +1,79 @@
+2017-02-19 23:39:42 INFO  DriverManager:30 - new instance of ChromeDriver created
+2017-02-19 23:39:42 INFO  GoogleHomeIPage:30 - Google Home page creating
+2017-02-19 23:39:45 INFO  GoogleHomeIPage:52 - Google Search Results page creating
+2017-02-19 23:39:46 INFO  GoogleHomeIPage:52 - Google Search Results page creating
+2017-02-19 23:39:47 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-19 23:39:48 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-19 23:39:53 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-19 23:39:59 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-19 23:40:05 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-19 23:40:09 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-19 23:40:13 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-19 23:50:24 INFO  DriverManager:31 - new instance of ChromeDriver created
+2017-02-19 23:50:24 INFO  GoogleHomeIPage:30 - Google Home page creating
+2017-02-19 23:50:27 INFO  GoogleHomeIPage:44 - Google Search Results page creating
+2017-02-19 23:50:28 INFO  GoogleHomeIPage:44 - Google Search Results page creating
+2017-02-19 23:50:28 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-19 23:50:37 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-19 23:50:38 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:54:14 INFO  DriverManager:40 - new instance of ChromeDriver created
+2017-02-20 12:54:14 INFO  GoogleHomePage:30 - Google Home page creating
+2017-02-20 12:54:15 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 12:54:16 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 12:54:18 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:54:20 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:54:21 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:54:22 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:54:28 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:54:30 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:54:30 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:54:33 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:54:34 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:54:35 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:55:41 INFO  DriverManager:40 - new instance of ChromeDriver created
+2017-02-20 12:55:41 INFO  GoogleHomePage:30 - Google Home page creating
+2017-02-20 12:55:42 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 12:55:42 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 12:55:43 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:55:46 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:55:47 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:55:48 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 12:55:50 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 14:50:34 INFO  DriverManager:40 - new instance of ChromeDriver created
+2017-02-20 14:50:34 INFO  GoogleHomePage:30 - Google Home page creating
+2017-02-20 14:50:35 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 14:50:35 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 14:50:37 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 14:50:40 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 14:50:41 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 14:50:42 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 14:50:46 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 14:50:49 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 14:50:51 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 14:50:52 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 14:50:53 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 14:50:55 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 16:51:41 INFO  DriverManager:40 - new instance of ChromeDriver created
+2017-02-20 16:51:41 INFO  GoogleHomePage:30 - Google Home page creating
+2017-02-20 16:51:42 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 16:51:43 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 16:51:44 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 16:53:14 INFO  DriverManager:40 - new instance of ChromeDriver created
+2017-02-20 16:53:14 INFO  GoogleHomePage:30 - Google Home page creating
+2017-02-20 16:53:15 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 16:53:16 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 16:53:17 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 16:55:59 INFO  DriverManager:40 - new instance of ChromeDriver created
+2017-02-20 16:55:59 INFO  GoogleHomePage:30 - Google Home page creating
+2017-02-20 16:56:00 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 16:56:01 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 16:57:32 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 17:01:33 INFO  DriverManager:40 - new instance of ChromeDriver created
+2017-02-20 17:01:33 INFO  GoogleHomePage:30 - Google Home page creating
+2017-02-20 17:01:35 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 17:01:35 INFO  GoogleHomePage:28 - Google Search Results page creating
+2017-02-20 17:01:36 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 17:01:39 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 17:01:40 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 17:01:42 INFO  SearchResultWebSitePage:23 - Search Results page creating
+2017-02-20 17:01:44 INFO  SearchResultWebSitePage:23 - Search Results page creating
